@@ -18,3 +18,10 @@
 
 Спасибо, что рассмотрели меня в качестве кандидата, я с нетерпением жду ответа от вас в ближайшее время.
 
+## Контактная информация
+<img src= "https://github.com/PonurovMS/Study_projects/assets/134910601/2bffc90a-2b8a-4d93-b0b6-1d66d527c005" width="20"> https://t.me/maksimponurov
+
+<img src= "https://github.com/PonurovMS/Study_projects/assets/134910601/59b89da7-4e91-4ce4-92d2-e9bca008ce21" width="20"> maksim.ponurov@mail.ru
+
+
+## Проекты
