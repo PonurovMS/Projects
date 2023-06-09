@@ -28,3 +28,11 @@
 1) Пример макроса
 
 https://github.com/PonurovMS/Study_projects/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%BC%D0%B0%D0%BA%D1%80%D0%BE%D1%81%D0%B0.md
+
+2) Пример кода в Python (Анализ АБ-теста)
+ 
+https://github.com/PonurovMS/Projects/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%90%D0%91-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20(Python).md
+
+3) Пример SQL запросов
+
+https://github.com/PonurovMS/Projects/blob/main/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B%20SQL.md
