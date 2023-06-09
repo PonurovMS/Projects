@@ -1,4 +1,4 @@
-# SQL
+# SQL Примеры запросов
 ## Существуют следующие таблицы с данными:
 📁 Таблица payments
 
@@ -68,7 +68,7 @@ SELECT		a.amt_payment, a.time_payment, c.name_region
 FROM		payments AS a join client_info AS b ON a.id_client = b.id_client
 JOIN city_info AS c ON b.id_city = c.id_city
  )
- WHERE num < 4
+WHERE num < 4
  ```
  
 ## Задание 4.
