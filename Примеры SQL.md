@@ -60,7 +60,7 @@ WHERE		b.amt_payment IS NULL
 Для каждого федерального округа выделите первые три платежа.
 
 ```
-SELECT *
+SELECT 		*
 FROM
 (
 SELECT		a.amt_payment, a.time_payment, c.name_region
