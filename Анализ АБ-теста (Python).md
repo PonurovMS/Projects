@@ -22,3 +22,7 @@
 ### Вкладка “Region_Dict”
 - id_trading_point - уникальный идентификатор торговой точки, к которой прикреплен данный пользователь.
 - city - название города.
+
+# Решение
+
+https://github.com/PonurovMS/Projects/blob/main/AB-test.ipynb
